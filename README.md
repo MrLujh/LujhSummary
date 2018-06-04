@@ -3,8 +3,8 @@
 ## APP性能分析 --性能优化梳理：启动优化、崩溃日志 、 安装包瘦身、内存优化、
 
 ### APP启动时间优化学习文章
-* [iOS App 启动时间优化](https://juejin.im/entry/59e6fb7051882521b45fc1bc)
-* [今日头条iOS客户端启动速度优化](https://techblog.toutiao.com/2017/01/17/iosspeed/)
+* [iOS Runtime(一) Runtime的应用](https://juejin.im/post/58f833458d6d81005875f872)
+* [iOS Runtime详解](https://juejin.im/post/5ac0a6116fb9a028de44d717)
 * [iOS App 启动性能优化](https://juejin.im/entry/598d1fc16fb9a03c3a25d150)
 * [[iOS]一次立竿见影的启动时间优化](https://juejin.im/post/5a31190751882559e225a775)
 * [阿里数据iOS端启动速度优化的一些经验](https://juejin.im/entry/59985a32518825242860f59a)
